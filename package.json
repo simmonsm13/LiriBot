@@ -1,0 +1,24 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "\"npm packagages\"",
+  "main": "keys.js",
+  "scripts": {
+    "test": "meek"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simmonsm13/LiriBot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Spotify",
+    "OMDB"
+  ],
+  "author": "Michael Simmons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simmonsm13/LiriBot/issues"
+  },
+  "homepage": "https://github.com/simmonsm13/LiriBot#readme"
+}
